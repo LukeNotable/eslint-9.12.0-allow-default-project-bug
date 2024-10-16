@@ -1,0 +1,1 @@
+export const TEST = 'vitest.config.ts';

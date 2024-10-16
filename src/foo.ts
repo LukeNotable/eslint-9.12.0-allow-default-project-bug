@@ -1,0 +1,1 @@
+export const TEST = 'src/foo.ts';
